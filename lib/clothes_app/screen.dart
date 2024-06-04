@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:home_work/clothes.dart';
+import 'package:home_work/clothes_app/clothes.dart';
 
 class Screen extends StatelessWidget {
   const Screen({Key? key});
